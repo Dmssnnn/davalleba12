@@ -15,6 +15,7 @@ header {
 .header-container {
     display: flex;
     margin: 0 auto;
+    width: 1500px;
 }
 .shape {
     width: 300px;
@@ -117,6 +118,7 @@ color: #FFFFFF;
 .main-title-wrapper {
     display: flex;
     margin: 0 auto;
+    width: 1500px;
     
 }
 .combined-imgs {
@@ -168,6 +170,7 @@ background: #F5D3AB;
 .baking-container {
     display: flex;
     margin: 0 auto;
+    width: 1500px;
 }
 .bitmap {
     position: relative;
@@ -213,6 +216,7 @@ color: #171B1B;
 .baking-container {
     display: flex;
     margin: 0 auto;
+    width: 1500px;
 }
 .cream-title h2{
 margin-left: 600px;
@@ -279,11 +283,12 @@ color: #171B1B;
     width: 1440px;
     height: 888px;
     background: #F5D3AB;
-    margin: 0 auto;
+    
 }
 .baked-container {
     display: flex;
     margin: 0 auto;
+    width: 1500px;
 }
 .baked-titles h6{
     width: 201px;
@@ -321,6 +326,7 @@ color: #171B1B;
 }
 .rectiangle {
     margin: 0 auto;
+    width: 1500px;
     display: flex;
 }
 .coffeimg {
@@ -415,7 +421,8 @@ line-height: 32px;
 color: rgba(51, 51, 51, 0.496405);
 }
 .video-section {
-width: 1440px;
+margin: 0 auto;
+width: 1500px;
 height: 480px;
 background: #171B1B;
 }
@@ -466,13 +473,14 @@ color: #FFFFFF;
 }
 .baked-morning-container {
     margin: 0 auto;
+    width: 1500px;
     height: 600px ;
     background-color: #F5D3AB;
     width: 1440px;
 }
 .little-contentswrapper {
     margin: 0 auto;
-    width: 1440px;
+    width: 1500px;
 }
 .morning-titles {
     margin-top: 150px;
@@ -623,6 +631,7 @@ color: #171B1B;
 .little-contentswrapper {
     background-color: #F5D3AB;
     margin: 0 auto;
+    width: 1500px;
     display: flex;
     height: 400px;
 }
@@ -722,9 +731,11 @@ color: #FFFFFF;
 }
 .work-wrapper {
     margin: 0 auto;
+    width: 1500px;
 }
 .work-content-container {
     margin: 0 auto;
+    width: 1500px;
     display: flex;
     margin-top: 100px;
     margin-left: 200px;
@@ -899,7 +910,7 @@ color: #171B1B;
 }
 .tasty-content p {
     margin-left: 20px;
-    margin: top 10px; ;
+    margin-top: 10px; ;
 width: 204px;
 height: 93px;
 font-family: 'DM Sans';
@@ -912,6 +923,7 @@ color: rgba(51, 51, 51, 0.496405);
 
 .explore-wrapper {
     margin: 0 auto;
+    width: 1500px;
     display: flex;
 }
 .explore-title {
@@ -945,6 +957,7 @@ color: #FFFFFF;
 }
 .delicious-wrapper {
     margin: 0 auto;
+    width: 1500px;
 }
 .delicious-content {
     margin-top: 150px;
@@ -1052,7 +1065,7 @@ color: #171B1B;
 }
 
 .recipes-title {
-    margin-top:400px;
+    width: 1500px;
     margin: 0 auto;
 }
 
@@ -1086,8 +1099,8 @@ color: #FFFFFF;
     display: flex;
     margin: 0 auto;
     background: #171B1B;
-    height: 700px;
-
+    
+    width: 1500px;
 
 }
 .delicious-bread {
@@ -1275,6 +1288,7 @@ color: #171B1B;
 
 .little2-sections {
     margin: 0 auto;
+    width: 1500px;
 }
 .peanut-content {
     margin-top: 20px;
@@ -1380,7 +1394,7 @@ color: #171B1B;
 }
 .pink-section {
 margin: 0 auto;
-width: 1440px;
+width: 1500px;
 height: 2588px;
 background: #F5D3AB;
 }
@@ -1671,6 +1685,7 @@ color: rgba(51, 51, 51, 0.496405);
 }
 .contact-us-container {
     margin: 0 auto;
+    width: 1500px;
     margin-top: 150px;
     display: flex;
 }
@@ -1704,6 +1719,7 @@ color: #171B1B;
 }
 .adresses-container {
     margin: 0 auto;
+    width: 1500px;
     display: flex;
 }
 .contact-us-address h5 {
@@ -1754,15 +1770,3 @@ line-height: 24px;
 text-transform: uppercase;
 color: #171B1B;
 }
-
-
-
-
-
-
-
-
-
-
-
-
