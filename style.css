@@ -470,7 +470,7 @@ color: #FFFFFF;
     background-color: #F5D3AB;
     width: 1440px;
 }
-.little-contents-wrapper {
+.little-contentswrapper {
     margin: 0 auto;
     width: 1440px;
 }
@@ -1381,7 +1381,7 @@ color: #171B1B;
 .pink-section {
 margin: 0 auto;
 width: 1440px;
-height: 2088px;
+height: 2588px;
 background: #F5D3AB;
 }
 .pink-section-container {
@@ -1652,3 +1652,117 @@ color: rgba(51, 51, 51, 0.496405);
 .pictures-container img{
     width: 13px;
 }
+.dots {
+    margin-top: 40px;
+    margin-left: 550px;
+    display: flex;
+}
+.dots h3 {
+    margin-left: 20px;
+}
+.main-dot {
+    font-size: 50px;
+    
+}
+.little-dot {
+    margin-top: 17px;
+    font-size: 30px;
+    color: #9EAD8D;
+}
+.contact-us-container {
+    margin: 0 auto;
+    margin-top: 150px;
+    display: flex;
+}
+.contact-us-imgs {
+    margin-left: 50px;
+}
+.contact-us-titles h4 {
+    margin-left: 600px;
+    width: 216px;
+height: 32px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+letter-spacing: 3px;
+text-transform: uppercase;
+color: #171B1B;
+}
+.contact-us-titles h2 {
+margin-top: 20px;    
+margin-left: 600px;
+width: 287px;
+height: 128px;
+font-family: 'Ultra';
+font-style: normal;
+font-weight: 400;
+font-size: 56px;
+line-height: 64px;
+color: #171B1B;
+}
+.adresses-container {
+    margin: 0 auto;
+    display: flex;
+}
+.contact-us-address h5 {
+margin-top: 50px;
+margin-left: 610px;
+width: 18px;
+height: 32px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+letter-spacing: 3px;
+text-transform: uppercase;
+color: #171B1B;
+}
+.contact-us-icon-content {
+    display: flex;
+}
+.contact-us-icon-content img{
+    margin-top:50px;
+    margin-left: 500px;
+    width: 38px;
+    height: 38px;
+    border-radius: 150px;
+    background-color: black;
+}
+.contact-us-address p {
+margin-top: 30px;
+margin-left: 600px;
+width: 141px;
+height: 64px;
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 32px;
+color: rgba(51, 51, 51, 0.496405);
+}
+.contact-us-titles button {
+    margin-top: 100px;
+    margin-left: 600px;
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+text-transform: uppercase;
+color: #171B1B;
+}
+
+
+
+
+
+
+
+
+
+
+
+
