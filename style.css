@@ -468,6 +468,11 @@ color: #FFFFFF;
     margin: 0 auto;
     height: 600px ;
     background-color: #F5D3AB;
+    width: 1440px;
+}
+.little-contents-wrapper {
+    margin: 0 auto;
+    width: 1440px;
 }
 .morning-titles {
     margin-top: 150px;
